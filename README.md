@@ -118,11 +118,6 @@ anvisa-sngpc-dashboard/
 │
 ├── dashboard/                       # Arquivo do Power BI
 │   └── Dashboard_ANVISA.pbix
-│
-└── auxiliar/                        # Tabelas auxiliares Excel
-    ├── dim_populacao_ibge.xlsx
-    ├── dim_estacoes.xlsx
-    └── dim_receituarios_v2.xlsx
 ```
 
 ---
