@@ -246,7 +246,7 @@ As três substâncias foram incluídas no controle do SNGPC durante a pandemia e
 
 **Lucas Fontes**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassfontesc/)
 
 ---
 
