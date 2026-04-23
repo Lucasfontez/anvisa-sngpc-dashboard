@@ -52,7 +52,8 @@ O Sistema Nacional de Gerenciamento de Produtos Controlados (SNGPC) da ANVISA co
 <summary>📸 Clique para ver todas as páginas</summary>
 
 #### Página 1 — Resumo Executivo
-![Resumo](assets/01_resumo_executivo.png)
+![Resumo](<img width="4150" height="2400" alt="01_resumo_executivo" src="https://github.com/user-attachments/assets/086b7994-9924-4644-91dc-b7ba8aa49c22" />
+)
 
 #### Página 2 — Panorama Geográfico
 ![Geográfico](assets/02_panorama_geografico.png)
